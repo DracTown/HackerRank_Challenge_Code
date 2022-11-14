@@ -14,3 +14,6 @@ Mock Test: Done
           Week 2  
 Problem 1: Lonely Integer DONE  
 Problem 2: Grading Students DONE  
+
+        Week3 SQL
+Problem 1: Revising the Select Query II DONE
